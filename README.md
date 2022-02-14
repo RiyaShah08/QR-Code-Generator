@@ -3,6 +3,3 @@ In this QR code generator project use many module like TKinter, qrcode, PIL, ima
 Also use generater to create a QR code of related details. and  this imageof QR code store to the given location. 
 
 <img src="https://github.com/RiyaShah08/QR-Code-Generator/blob/main/Output.PNG">
-
-
-By - Riya Shah
